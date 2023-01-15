@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📝 My Blog - https://eliises.dev  
 - 🐦 Twitter - https://twitter.com/EliiseS
 
-![](https://github-readme-stats.vercel.app/api?username=eliises&show_icons=true&theme=cobalt2)
+![](https://github-readme-stats-eliises.vercel.app/api?username=eliises&show_icons=true&theme=cobalt2&user=eliise)
