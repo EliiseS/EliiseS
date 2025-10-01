@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ❤ Go, K8s, Terraform, Devops, C#
 - ❤ also 🐱🍫🌿🚲🚡🌲🌄🍜
 - 📝 My Blog - https://eliises.dev  
-- 🐦 Twitter - https://twitter.com/EliiseS
+- 📜 Resume - https://github.com/EliiseS/LatexResume
 
 Contributions of note:
 - [EliiseS/aks-windows-gpu-acceleration](https://github.com/EliiseS/aks-windows-gpu-acceleration/tree/main): Proof of concept for accesing GPU from Windows NC series machines Nodes within K8s
