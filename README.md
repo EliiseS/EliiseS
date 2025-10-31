@@ -25,6 +25,7 @@ Contributions of note:
 - [katriendg/aio-cert-manager: Azure IoT Operations learning and experiments for TLS cert management, renewal, and trust bundle distribution.](https://github.com/katriendg/aio-cert-manager): Collabration to explore TLS certificate management lifecycles
 
 - One of the contributors for:
+  -  [microsoft/edge-ai: Edge AI Accelerator](https://github.com/microsoft/edge-ai)
   - [microsoft/terraform-provider-azuredevops: Terraform Azure DevOps provider](https://github.com/microsoft/terraform-provider-azuredevops)
   - [Azure/iotedgedev: The Azure IoT Edge Dev Tool greatly simplifies your Azure IoT Edge development process. It has everything you need to get started and helps with your day-to-day Edge development.](https://github.com/Azure/iotedgedev/pulls?q=is%3Apr+author%3AEliiseS+is%3Aclosed)
   - [hashicorp/terraform-provider-azurerm: Terraform provider for Azure Resource Manager](https://github.com/hashicorp/terraform-provider-azurerm/pulls?q=is%3Apr%20author%3AEliiseS%20is%3Aclosed)
